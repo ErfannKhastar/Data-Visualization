@@ -64,7 +64,7 @@ Feel free to open an issue or leave a comment if you have any suggestions, feedb
 ## 📬 Contact Me
 
 Let's connect! You can find my links and reach out to me through my GitHub profile bio:
-- Check out my [GitHub Profile](https://github.com/YOUR_USERNAME) for Email, Telegram, LinkedIn, and Instagram links.
+- Check out my [GitHub Profile](https://github.com/ErfannKhastar) for Email, Telegram, LinkedIn, and Instagram links.
 
 ---
 
